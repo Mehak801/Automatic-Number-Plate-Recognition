@@ -7,7 +7,7 @@ This could be used as a part of a broader system. In extension to this we are tr
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository: https://github.com/Mehak801/Automatic-Number-Plate-Recognition.git
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
@@ -35,7 +35,7 @@ python -m ipykernel install --user --name=anprsys
 \ANPR\Tensorflow\workspace\images\train<br />
 \ANPR\Tensorflow\workspace\images\test
 <br/><br/>
-<b>Step 7.</b> Begin training process by opening <a href="https://github.com/nicknochnack/TFODCourse/blob/main/2.%20Training%20and%20Detection.ipynb">Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
+<b>Step 7.</b> Begin training process by opening <a href="https://github.com/Mehak801/Automatic-Number-Plate-Recognition/blob/master/Training_and_Detection.ipynb">Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
 <b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.  
 <img src="https://i.imgur.com/FSQFo16.png">
